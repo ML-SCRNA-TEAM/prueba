@@ -12,18 +12,13 @@ This project is in development. It is a collection of machine learning (ML) algo
 
 In this project we used 2 database from:
 
-### Van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. 
-K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML 
-Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 
-1265-1281. 
+### Van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML   Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281. 
 
 ACCESS: GEO GSE116256
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116256
 
-### Rodríguez, A., Zhang, K., Färkkilä, A., Filiatrault, J., Yang, C., Velázquez, M., 
-... & D’Andrea, A. D. (2021). MYC Promotes Bone Marrow Stem Cell 
-Dysfunction in Fanconi Anemia. Cell Stem Cell, 28(1), 33-47. 
+### Rodríguez, A., Zhang, K., Färkkilä, A., Filiatrault, J., Yang, C., Velázquez, M., ... & D’Andrea, A. D. (2021). MYC Promotes Bone Marrow Stem Cell Dysfunction in Fanconi Anemia. Cell Stem Cell, 28(1), 33-47. 
 
 ACCESS: GEO GSE157591
 
